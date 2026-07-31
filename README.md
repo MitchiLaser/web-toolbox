@@ -1,6 +1,6 @@
 # Toolbox
 
-A collection of lab course tools on a website.
+The [Toolbox](https://mitchilaser.github.io/web-toolbox/) is a collection of useful tools for lab courses, combined into a single website.
 
 ## Introduction
 
