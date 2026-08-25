@@ -1,0 +1,21 @@
+[
+	{
+		"type": "heading",
+		"name": "Elektronik",
+		"enabled": true
+	},
+	{
+		"type": "module",
+		"name": "Farbcode-Rechner für Widerstände",
+		"path": "./modules/resistor-colors",
+		"enabled": true
+	},
+	{
+		"type": "module",
+		"name": "Farbcode-Rechner für Widerstände",
+		"path": "./modules/resistor-colors",
+		"icon": "./img/resistor.svg",
+		"enabled": false
+	}
+
+]

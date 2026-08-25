@@ -1,2 +1,6 @@
+/*
+ * This file combines all the common stylesheets for the website skeleton
+ */
+
 @import "./colors.css";
 @import "./skeleton.css";
